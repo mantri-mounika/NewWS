@@ -3,12 +3,12 @@
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.cws.documenttypes.project.Project"
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
-	RuntimeDocumentID="48F17F44-149C-A1EE-8C77-D10EAFBEC048">
-	<DocumentID>48F17F44-149C-A1EE-8C77-D10EAFBE8048</DocumentID>
+	RuntimeDocumentID="E86A64C7-2750-A1EE-9447-4F7F2FF7804C">
+	<DocumentID>E86A64C7-2750-A1EE-9447-4F7F2FF7404C</DocumentID>
 	<Name>Untitled Project</Name>
-	<Description>Project1</Description>
+	<Description>Untitled Projectsss</Description>
 	<CreatedBy>sysadmin</CreatedBy>
-	<CreationDate>2023-08-03T09:23:12.22</CreationDate>
+	<CreationDate>2023-09-12T03:35:03.421</CreationDate>
 	<Notes/>
 	<NamespacePrefix></NamespacePrefix>
 	<Configurations/>
@@ -16,12 +16,12 @@
 		<ISVPackageInfo
 			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
 			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
-			RuntimeDocumentID="48F17F44-149C-A1EE-8C77-D10EAFBD8048">
-			<DocumentID>48F17F44-149C-A1EE-8C77-D10EAFBD4048</DocumentID>
+			RuntimeDocumentID="E86A64C7-2750-A1EE-9447-4F7F2FF6404C">
+			<DocumentID>E86A64C7-2750-A1EE-9447-4F7F2FF6004C</DocumentID>
 			<Name>My Company Untitled Project</Name>
 			<Description>My Company Untitled Project</Description>
 			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2023-08-03T09:23:12.222</CreationDate>
+			<CreationDate>2023-09-12T03:35:03.421</CreationDate>
 			<Notes/>
 			<BuildNumber>0</BuildNumber>
 			<GenerateModelPackage>false</GenerateModelPackage>
@@ -43,7 +43,7 @@
 	<RuntimeQualifiedName/>
 	<SourceFolder>
 		<uri
-			id="48F17F44-149C-A1EE-8C77-D10EAFBE0048"
+			id="E86A64C7-2750-A1EE-9447-4F7F2FF6C04C"
 			path="Untitled Project"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
@@ -52,48 +52,48 @@
 		<TranslationInformation
 			type="com.cordys.translation.TranslationInformation"
 			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
-			RuntimeDocumentID="48F17F44-149C-A1EE-8C77-D10EAFBD0048">
-			<DocumentID>48F17F44-149C-A1EE-8C77-D10EAFBCC048</DocumentID>
+			RuntimeDocumentID="E86A64C7-2750-A1EE-9447-4F7F2FF5C04C">
+			<DocumentID>E86A64C7-2750-A1EE-9447-4F7F2FF5804C</DocumentID>
 			<Name>TranslationInformation</Name>
 			<Description>TranslationInformation</Description>
 			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2023-08-03T09:23:12.22</CreationDate>
+			<CreationDate>2023-09-12T03:35:03.419</CreationDate>
 			<Notes/>
 			<LanguagePacks>
 				<LanguagePack
 					type="com.cordys.translation.LanguagePack"
 					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
-					RuntimeDocumentID="48F17F44-149C-A1EE-8C77-D10EAFBC0048">
-					<DocumentID>48F17F44-149C-A1EE-8C77-D10EAFBBC048</DocumentID>
+					RuntimeDocumentID="E86A64C7-2750-A1EE-9447-4F7F2FF4C04C">
+					<DocumentID>E86A64C7-2750-A1EE-9447-4F7F2FF4804C</DocumentID>
 					<Name>en-US</Name>
 					<Description>en-US</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2023-08-03T09:23:12.22</CreationDate>
+					<CreationDate>2023-09-12T03:35:03.422</CreationDate>
 					<Notes/>
 					<Language>English - United States</Language>
 					<Texts>
 						<uri
-							id="48F17F44-149C-A1EE-8C77-D10EAFBB4048"
-							path="Untitled Project/en-US_48F17F44-149C-A1EE-8C77-D10EAFBB4048"
+							id="E86A64C7-2750-A1EE-9447-4F7F2FF4004C"
+							path="Untitled Project/en-US_E86A64C7-2750-A1EE-9447-4F7F2FF4004C"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
 					<TranslationInformation>
 						<uri
-							id="48F17F44-149C-A1EE-8C77-D10EAFBCC048"
+							id="E86A64C7-2750-A1EE-9447-4F7F2FF5804C"
 						/>
 					</TranslationInformation>
 				</LanguagePack>
 			</LanguagePacks>
 			<ProjectLanguage>
 				<uri
-					id="48F17F44-149C-A1EE-8C77-D10EAFBBC048"
+					id="E86A64C7-2750-A1EE-9447-4F7F2FF4804C"
 				/>
 			</ProjectLanguage>
 			<Texts>
 				<uri
-					id="48F17F44-149C-A1EE-8C77-D10EAFBC4048"
-					path="Untitled Project/TranslationInformation_48F17F44-149C-A1EE-8C77-D10EAFBC4048"
+					id="E86A64C7-2750-A1EE-9447-4F7F2FF5004C"
+					path="Untitled Project/TranslationInformation_E86A64C7-2750-A1EE-9447-4F7F2FF5004C"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
