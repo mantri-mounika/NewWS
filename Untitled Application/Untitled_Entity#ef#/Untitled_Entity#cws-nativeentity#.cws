@@ -512,6 +512,62 @@
 						/>
 					</TypeDefinition>
 				</Property>
+				<Property
+					type="com.cordys.entity.core.structure.property.Property"
+					RuntimeDocumentID="00505601-2CB9-A1EF-9624-E640860F4191">
+					<DocumentID>00505601-2CB9-A1EF-9624-E640860F0191</DocumentID>
+					<Name>Untitled_Property_1</Name>
+					<Description>Untitled_Property_1</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2024-08-12T11:31:04.21</CreationDate>
+					<Notes/>
+					<ConflictLevel>None</ConflictLevel>
+					<DataType>Text</DataType>
+					<ExposeForReuse>false</ExposeForReuse>
+					<Expression></Expression>
+					<IsComputedProperty>false</IsComputedProperty>
+					<IsReadOnly>false</IsReadOnly>
+					<IsRequired>false</IsRequired>
+					<IsValueUnique>false</IsValueUnique>
+					<StaticProperty></StaticProperty>
+					<Updatability>ReadWrite</Updatability>
+					<BuildingBlock>
+						<uri
+							id="00505601-2CB9-A1EF-9624-E640861D8191"
+						/>
+					</BuildingBlock>
+					<DisplayName/>
+					<OwnedTypeDefinition>
+						<SmallTextPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.text.SmallTextPropertyDefinition"
+							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="00505601-2CB9-A1EF-9624-E640860E4191">
+							<DocumentID>00505601-2CB9-A1EF-9624-E640860E0191</DocumentID>
+							<Name>00505601-2CB9-A1EF-9624-E640860E0191</Name>
+							<Description>00505601-2CB9-A1EF-9624-E640860E0191</Description>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2024-08-12T11:31:04.21</CreationDate>
+							<Notes/>
+							<DefaultValue></DefaultValue>
+							<Length>64</Length>
+							<Pattern></Pattern>
+							<Searchable>false</Searchable>
+							<lowerBound>1</lowerBound>
+							<upperBound>1</upperBound>
+							<Type>
+								<uri
+									id="005056C0-0008-11E6-FAF9-068E75561F9D"
+								/>
+							</Type>
+						</SmallTextPropertyDefinition>
+					</OwnedTypeDefinition>
+					<Tooltip/>
+					<TypeDefinition>
+						<uri
+							id="00505601-2CB9-A1EF-9624-E640860E0191"
+						/>
+					</TypeDefinition>
+				</Property>
 			</Properties>
 		</PropertyBuildingBlock>
 		<TestBuildingBlock
